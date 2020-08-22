@@ -5,6 +5,32 @@ Entertain Me allows users to be matched with entertainment that suits their mood
 
 ---
 
+
+----
+## Technologies
+### Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+
+#### Backend:
+- Python
+- Flask
+- SQLite
+- SQLAlchemy
+- Numpy & Pandas
+- NLTK
+- Oauth
+
+### Testing:
+- Frontend - Jest & Enzyme
+- Backend - Pytest
+
+
+---
+
 ## Getting Started 
 
 
@@ -47,30 +73,6 @@ npm install
 npm start
 ```
 
-----
-## Technologies
-### Frontend:
-- HTML
-- CSS
-- JavaScript
-- React
-- Bootstrap
-
-#### Backend:
-- Python
-- Flask
-- SQLite
-- SQLAlchemy
-- Numpy & Pandas
-- NLTK
-- Oauth
-
-### Testing:
-- Frontend - Jest & Enzyme
-- Backend - Pytest
-
-
----
 
 
 ## User Stories
